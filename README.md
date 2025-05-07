@@ -1,3 +1,3 @@
 # interpreter
 
-Building an interpreter following the book "Writting an Interpreter in Go" by Thorsten Ball.
+Building an interpreter following the book "Writing an Interpreter in Go" by Thorsten Ball.
